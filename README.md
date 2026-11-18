@@ -112,16 +112,19 @@ A beauty service application project designed to support treatment services and 
 
 ### 04. Oven & Co
 
-**Group Project**
+Group Project | In Progress
 
-A collaborative bakery application development project with equally distributed tasks among team members.
+A collaborative bakery application currently under development, with tasks distributed evenly among team members.
 
-**Project Approach**
-- Collaborative application development.
-- Equal task distribution within the team.
-- AI-assisted development using Claude Code.
+Project Approach
 
-[![View Team Repository](https://img.shields.io/badge/View_Team_Project-181717?style=for-the-badge&logo=github)](https://github.com/anggitasilmyy/oven-and-co)
+Collaborative application development.
+
+Equal task distribution among team members.
+
+AI-assisted development using Claude Code.
+
+Project Status: Currently in Development.
 
 ---
 
